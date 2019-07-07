@@ -1,6 +1,6 @@
 # Interest Detection 
 
-Interest detector bored/not-bored based on facial expressio using VGG16 and custom top layer model. 
+Interest detector bored/not-bored based on facial expression using VGG16 and custom top layer model. 
 
 ## Getting Started
 
